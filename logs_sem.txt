@@ -1,0 +1,310 @@
+Inicializando thread 0
+Inicializando thread 1
+Inicializando thread 2
+Inicializando thread 3
+Inicializando thread 4
+Inicializando thread 5
+Inicializando thread 6
+h4: iniciando iteracion 0
+h4: Semaforo abierto con exito. Se obtuvo recurso.
+h0: iniciando iteracion 0
+h0: Semaforo abierto con exito. Se obtuvo recurso.
+h6: iniciando iteracion 0
+h6: Semaforo abierto con exito. Se obtuvo recurso.
+h0: Recurso usado, finaliza iteracion.
+h0: iniciando iteracion 1
+h0: Semaforo abierto con exito. Se obtuvo recurso.
+h5: iniciando iteracion 0
+h5: Semaforo abierto con exito. Se obtuvo recurso.
+h6: Recurso usado, finaliza iteracion.
+h6: iniciando iteracion 1
+h6: Semaforo abierto con exito. Se obtuvo recurso.
+h0: Recurso usado, finaliza iteracion.
+h0: iniciando iteracion 2
+h0: Semaforo abierto con exito. Se obtuvo recurso.
+h2: iniciando iteracion 0
+h2: Semaforo abierto con exito. Se obtuvo recurso.
+h4: Recurso usado, finaliza iteracion.
+h4: iniciando iteracion 1
+h4: Semaforo abierto con exito. Se obtuvo recurso.
+h2: Recurso usado, finaliza iteracion.
+h2: iniciando iteracion 1
+h2: Semaforo abierto con exito. Se obtuvo recurso.
+h0: Recurso usado, finaliza iteracion.
+h0: iniciando iteracion 3
+h0: Semaforo abierto con exito. Se obtuvo recurso.
+h4: Recurso usado, finaliza iteracion.
+h4: iniciando iteracion 2
+h4: Semaforo abierto con exito. Se obtuvo recurso.
+h4: Recurso usado, finaliza iteracion.
+h6: Recurso usado, finaliza iteracion.
+h6: iniciando iteracion 2
+h6: Semaforo abierto con exito. Se obtuvo recurso.
+h0: Recurso usado, finaliza iteracion.
+h4: iniciando iteracion 3
+h2: Recurso usado, finaliza iteracion.
+h2: iniciando iteracion 2
+Inicializando thread 7
+h2: Semaforo abierto con exito. Se obtuvo recurso.
+h5: Recurso usado, finaliza iteracion.
+h5: iniciando iteracion 1
+h5: Semaforo abierto con exito. Se obtuvo recurso.
+h3: iniciando iteracion 0
+h3: Semaforo abierto con exito. Se obtuvo recurso.
+Inicializando thread 8
+Inicializando thread 9
+h1: iniciando iteracion 0
+h5: Recurso usado, finaliza iteracion.
+h5: iniciando iteracion 2
+h5: Semaforo abierto con exito. Se obtuvo recurso.
+h9: iniciando iteracion 0
+h1: Semaforo abierto con exito. Se obtuvo recurso.
+h3: Recurso usado, finaliza iteracion.
+h8: iniciando iteracion 0
+h8: Semaforo abierto con exito. Se obtuvo recurso.
+h9: Semaforo abierto con exito. Se obtuvo recurso.
+h2: Recurso usado, finaliza iteracion.
+h2: iniciando iteracion 3
+h2: Semaforo abierto con exito. Se obtuvo recurso.
+h4: Semaforo abierto con exito. Se obtuvo recurso.
+h2: Recurso usado, finaliza iteracion.
+h2: iniciando iteracion 4
+h3: iniciando iteracion 1
+h3: Semaforo abierto con exito. Se obtuvo recurso.
+h1: Recurso usado, finaliza iteracion.
+h1: iniciando iteracion 1
+h1: Semaforo abierto con exito. Se obtuvo recurso.
+h9: Recurso usado, finaliza iteracion.
+h9: iniciando iteracion 1
+h9: Semaforo abierto con exito. Se obtuvo recurso.
+h8: Recurso usado, finaliza iteracion.
+h8: iniciando iteracion 1
+h8: Semaforo abierto con exito. Se obtuvo recurso.
+h7: iniciando iteracion 0
+h7: Semaforo abierto con exito. Se obtuvo recurso.
+h6: Recurso usado, finaliza iteracion.
+h3: Recurso usado, finaliza iteracion.
+h3: iniciando iteracion 2
+h3: Semaforo abierto con exito. Se obtuvo recurso.
+h1: Recurso usado, finaliza iteracion.
+h1: iniciando iteracion 2
+h2: Semaforo abierto con exito. Se obtuvo recurso.
+h0: iniciando iteracion 4
+h0: Semaforo abierto con exito. Se obtuvo recurso.
+h1: Semaforo abierto con exito. Se obtuvo recurso.
+h9: Recurso usado, finaliza iteracion.
+h9: iniciando iteracion 2
+h9: Semaforo abierto con exito. Se obtuvo recurso.
+h5: Recurso usado, finaliza iteracion.
+h5: iniciando iteracion 3
+h3: Recurso usado, finaliza iteracion.
+h3: iniciando iteracion 3
+h3: Semaforo abierto con exito. Se obtuvo recurso.
+h2: Recurso usado, finaliza iteracion.
+h2: iniciando iteracion 5
+h2: Semaforo abierto con exito. Se obtuvo recurso.
+h0: Recurso usado, finaliza iteracion.
+h0: iniciando iteracion 5
+h3: Recurso usado, finaliza iteracion.
+h3: iniciando iteracion 4
+h3: Semaforo abierto con exito. Se obtuvo recurso.
+h2: Recurso usado, finaliza iteracion.
+h3: Recurso usado, finaliza iteracion.
+h3: iniciando iteracion 5
+h3: Semaforo abierto con exito. Se obtuvo recurso.
+h2: iniciando iteracion 6
+h2: Semaforo abierto con exito. Se obtuvo recurso.
+h0: Semaforo abierto con exito. Se obtuvo recurso.
+h0: Recurso usado, finaliza iteracion.
+h0: iniciando iteracion 6
+h0: Semaforo abierto con exito. Se obtuvo recurso.
+h1: Recurso usado, finaliza iteracion.
+h1: iniciando iteracion 3
+h1: Semaforo abierto con exito. Se obtuvo recurso.
+h0: Recurso usado, finaliza iteracion.
+h0: iniciando iteracion 7
+h0: Semaforo abierto con exito. Se obtuvo recurso.
+h1: Recurso usado, finaliza iteracion.
+h1: iniciando iteracion 4
+h1: Semaforo abierto con exito. Se obtuvo recurso.
+h4: Recurso usado, finaliza iteracion.
+h4: iniciando iteracion 4
+h4: Semaforo abierto con exito. Se obtuvo recurso.
+h1: Recurso usado, finaliza iteracion.
+h1: iniciando iteracion 5
+h1: Semaforo abierto con exito. Se obtuvo recurso.
+h9: Recurso usado, finaliza iteracion.
+h9: iniciando iteracion 3
+h9: Semaforo abierto con exito. Se obtuvo recurso.
+h5: Semaforo abierto con exito. Se obtuvo recurso.
+h6: iniciando iteracion 3
+h6: Semaforo abierto con exito. Se obtuvo recurso.
+h8: Recurso usado, finaliza iteracion.
+h8: iniciando iteracion 2
+h8: Semaforo abierto con exito. Se obtuvo recurso.
+h7: Recurso usado, finaliza iteracion.
+h7: iniciando iteracion 1
+h7: Semaforo abierto con exito. Se obtuvo recurso.
+h0: Recurso usado, finaliza iteracion.
+h0: iniciando iteracion 8
+h1: Recurso usado, finaliza iteracion.
+h0: Semaforo abierto con exito. Se obtuvo recurso.
+h1: iniciando iteracion 6
+h1: Semaforo abierto con exito. Se obtuvo recurso.
+h4: Recurso usado, finaliza iteracion.
+h0: Recurso usado, finaliza iteracion.
+h2: Recurso usado, finaliza iteracion.
+h3: Recurso usado, finaliza iteracion.
+h3: iniciando iteracion 6
+h3: Semaforo abierto con exito. Se obtuvo recurso.
+h0: iniciando iteracion 9
+h0: Semaforo abierto con exito. Se obtuvo recurso.
+h2: iniciando iteracion 7
+h2: Semaforo abierto con exito. Se obtuvo recurso.
+h7: Recurso usado, finaliza iteracion.
+h1: Recurso usado, finaliza iteracion.
+h1: iniciando iteracion 7
+h1: Semaforo abierto con exito. Se obtuvo recurso.
+h4: iniciando iteracion 5
+h4: Semaforo abierto con exito. Se obtuvo recurso.
+h3: Recurso usado, finaliza iteracion.
+h3: iniciando iteracion 7
+h3: Semaforo abierto con exito. Se obtuvo recurso.
+h0: Recurso usado, finaliza iteracion.
+h1: Recurso usado, finaliza iteracion.
+h1: iniciando iteracion 8
+h1: Semaforo abierto con exito. Se obtuvo recurso.
+h9: Recurso usado, finaliza iteracion.
+h9: iniciando iteracion 4
+h2: Recurso usado, finaliza iteracion.
+h1: Recurso usado, finaliza iteracion.
+h1: iniciando iteracion 9
+h1: Semaforo abierto con exito. Se obtuvo recurso.
+h4: Recurso usado, finaliza iteracion.
+h4: iniciando iteracion 6
+h4: Semaforo abierto con exito. Se obtuvo recurso.
+h9: Semaforo abierto con exito. Se obtuvo recurso.
+h5: Recurso usado, finaliza iteracion.
+h5: iniciando iteracion 4
+h5: Semaforo abierto con exito. Se obtuvo recurso.
+h3: Recurso usado, finaliza iteracion.
+h6: Recurso usado, finaliza iteracion.
+h4: Recurso usado, finaliza iteracion.
+h4: iniciando iteracion 7
+h4: Semaforo abierto con exito. Se obtuvo recurso.
+h9: Recurso usado, finaliza iteracion.
+h1: Recurso usado, finaliza iteracion.
+h9: iniciando iteracion 5
+h9: Semaforo abierto con exito. Se obtuvo recurso.
+h4: Recurso usado, finaliza iteracion.
+h4: iniciando iteracion 8
+h4: Semaforo abierto con exito. Se obtuvo recurso.
+h5: Recurso usado, finaliza iteracion.
+h5: iniciando iteracion 5
+h5: Semaforo abierto con exito. Se obtuvo recurso.
+h6: iniciando iteracion 4
+h6: Semaforo abierto con exito. Se obtuvo recurso.
+h8: Recurso usado, finaliza iteracion.
+h8: iniciando iteracion 3
+h8: Semaforo abierto con exito. Se obtuvo recurso.
+h7: iniciando iteracion 2
+h7: Semaforo abierto con exito. Se obtuvo recurso.
+h2: iniciando iteracion 8
+h2: Semaforo abierto con exito. Se obtuvo recurso.
+h2: Recurso usado, finaliza iteracion.
+h4: Recurso usado, finaliza iteracion.
+h4: iniciando iteracion 9
+h4: Semaforo abierto con exito. Se obtuvo recurso.
+h9: Recurso usado, finaliza iteracion.
+h9: iniciando iteracion 6
+h9: Semaforo abierto con exito. Se obtuvo recurso.
+h3: iniciando iteracion 8
+h7: Recurso usado, finaliza iteracion.
+h5: Recurso usado, finaliza iteracion.
+h5: iniciando iteracion 6
+h5: Semaforo abierto con exito. Se obtuvo recurso.
+h4: Recurso usado, finaliza iteracion.
+h9: Recurso usado, finaliza iteracion.
+h9: iniciando iteracion 7
+h9: Semaforo abierto con exito. Se obtuvo recurso.
+h5: Recurso usado, finaliza iteracion.
+h5: iniciando iteracion 7
+h5: Semaforo abierto con exito. Se obtuvo recurso.
+h3: Semaforo abierto con exito. Se obtuvo recurso.
+h2: iniciando iteracion 9
+h9: Recurso usado, finaliza iteracion.
+h9: iniciando iteracion 8
+h9: Semaforo abierto con exito. Se obtuvo recurso.
+h3: Recurso usado, finaliza iteracion.
+h9: Recurso usado, finaliza iteracion.
+h9: iniciando iteracion 9
+h9: Semaforo abierto con exito. Se obtuvo recurso.
+h9: Recurso usado, finaliza iteracion.
+h5: Recurso usado, finaliza iteracion.
+h5: iniciando iteracion 8
+h5: Semaforo abierto con exito. Se obtuvo recurso.
+h6: Recurso usado, finaliza iteracion.
+h3: iniciando iteracion 9
+h3: Semaforo abierto con exito. Se obtuvo recurso.
+h2: Semaforo abierto con exito. Se obtuvo recurso.
+h5: Recurso usado, finaliza iteracion.
+h5: iniciando iteracion 9
+h5: Semaforo abierto con exito. Se obtuvo recurso.
+h6: iniciando iteracion 5
+h2: Recurso usado, finaliza iteracion.
+h6: Semaforo abierto con exito. Se obtuvo recurso.
+h5: Recurso usado, finaliza iteracion.
+h8: Recurso usado, finaliza iteracion.
+h8: iniciando iteracion 4
+h8: Semaforo abierto con exito. Se obtuvo recurso.
+h3: Recurso usado, finaliza iteracion.
+h6: Recurso usado, finaliza iteracion.
+h6: iniciando iteracion 6
+h6: Semaforo abierto con exito. Se obtuvo recurso.
+h6: Recurso usado, finaliza iteracion.
+h6: iniciando iteracion 7
+h6: Semaforo abierto con exito. Se obtuvo recurso.
+h8: Recurso usado, finaliza iteracion.
+h8: iniciando iteracion 5
+h8: Semaforo abierto con exito. Se obtuvo recurso.
+h7: iniciando iteracion 3
+h7: Semaforo abierto con exito. Se obtuvo recurso.
+h6: Recurso usado, finaliza iteracion.
+h6: iniciando iteracion 8
+h6: Semaforo abierto con exito. Se obtuvo recurso.
+h8: Recurso usado, finaliza iteracion.
+h8: iniciando iteracion 6
+h8: Semaforo abierto con exito. Se obtuvo recurso.
+h6: Recurso usado, finaliza iteracion.
+h6: iniciando iteracion 9
+h6: Semaforo abierto con exito. Se obtuvo recurso.
+h8: Recurso usado, finaliza iteracion.
+h8: iniciando iteracion 7
+h8: Semaforo abierto con exito. Se obtuvo recurso.
+h7: Recurso usado, finaliza iteracion.
+h7: iniciando iteracion 4
+h7: Semaforo abierto con exito. Se obtuvo recurso.
+h6: Recurso usado, finaliza iteracion.
+h8: Recurso usado, finaliza iteracion.
+h8: iniciando iteracion 8
+h8: Semaforo abierto con exito. Se obtuvo recurso.
+h7: Recurso usado, finaliza iteracion.
+h7: iniciando iteracion 5
+h7: Semaforo abierto con exito. Se obtuvo recurso.
+h8: Recurso usado, finaliza iteracion.
+h8: iniciando iteracion 9
+h8: Semaforo abierto con exito. Se obtuvo recurso.
+h7: Recurso usado, finaliza iteracion.
+h7: iniciando iteracion 6
+h7: Semaforo abierto con exito. Se obtuvo recurso.
+h8: Recurso usado, finaliza iteracion.
+h7: Recurso usado, finaliza iteracion.
+h7: iniciando iteracion 7
+h7: Semaforo abierto con exito. Se obtuvo recurso.
+h7: Recurso usado, finaliza iteracion.
+h7: iniciando iteracion 8
+h7: Semaforo abierto con exito. Se obtuvo recurso.
+h7: Recurso usado, finaliza iteracion.
+h7: iniciando iteracion 9
+h7: Semaforo abierto con exito. Se obtuvo recurso.
+h7: Recurso usado, finaliza iteracion.

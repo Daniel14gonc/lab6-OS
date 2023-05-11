@@ -1,0 +1,464 @@
+Inicializando thread 0
+Inicializando thread 1
+Inicializando thread 2
+Inicializando thread 3
+Inicializando thread 4
+Inicializando thread 5
+Inicializando thread 6
+h3: iniciando iteracion 0
+h3: Se intentaran obtener 83 recursos.
+h3: Se lograron obtener los recursos.
+h4: iniciando iteracion 0
+h4: Se intentaran obtener 77 recursos.
+h0: iniciando iteracion 0
+h0: Se intentaran obtener 15 recursos.
+h0: Se lograron obtener los recursos.
+Se intentaron obtener 77 recursos pero solo hay 2
+h0: Recursos usados, finaliza iteracion.
+h0: iniciando iteracion 1
+h0: Se intentaran obtener 35 recursos.
+h0: Se lograron obtener los recursos.
+h1: iniciando iteracion 0
+h3: Recursos usados, finaliza iteracion.
+h3: iniciando iteracion 1
+h3: Se intentaran obtener 49 recursos.
+Se intentaron obtener 49 recursos pero solo hay 23
+Inicializando thread 7
+Inicializando thread 8
+h2: iniciando iteracion 0
+h2: Se intentaran obtener 21 recursos.
+h2: Se lograron obtener los recursos.
+h0: Recursos usados, finaliza iteracion.
+h0: iniciando iteracion 2
+h0: Se intentaran obtener 27 recursos.
+Se intentaron obtener 27 recursos pero solo hay 2
+h4: Se lograron obtener los recursos.
+h7: iniciando iteracion 0
+h7: Se intentaran obtener 59 recursos.
+Se intentaron obtener 59 recursos pero solo hay 2
+h1: Se intentaran obtener 92 recursos.
+Se intentaron obtener 92 recursos pero solo hay 2
+Inicializando thread 9
+h5: iniciando iteracion 0
+h5: Se intentaran obtener 63 recursos.
+h6: iniciando iteracion 0
+h6: Se intentaran obtener 26 recursos.
+h4: Recursos usados, finaliza iteracion.
+h4: iniciando iteracion 1
+h4: Se intentaran obtener 40 recursos.
+h4: Se lograron obtener los recursos.
+Se intentaron obtener 63 recursos pero solo hay 39
+h6: Se lograron obtener los recursos.
+h9: iniciando iteracion 0
+h9: Se intentaran obtener 36 recursos.
+h2: Recursos usados, finaliza iteracion.
+h8: iniciando iteracion 0
+h7: Se lograron obtener los recursos.
+h2: iniciando iteracion 1
+h2: Se intentaran obtener 68 recursos.
+h4: Recursos usados, finaliza iteracion.
+h4: iniciando iteracion 2
+h4: Se intentaran obtener 67 recursos.
+Se intentaron obtener 67 recursos pero solo hay 41
+h9: Se lograron obtener los recursos.
+h6: Recursos usados, finaliza iteracion.
+h6: iniciando iteracion 1
+h6: Se intentaran obtener 82 recursos.
+Se intentaron obtener 82 recursos pero solo hay 5
+h8: Se intentaran obtener 30 recursos.
+h7: Recursos usados, finaliza iteracion.
+h7: iniciando iteracion 1
+h7: Se intentaran obtener 62 recursos.
+h7: Se lograron obtener los recursos.
+Se intentaron obtener 30 recursos pero solo hay 2
+h7: Recursos usados, finaliza iteracion.
+h7: iniciando iteracion 2
+h7: Se intentaran obtener 67 recursos.
+Se intentaron obtener 67 recursos pero solo hay 64
+h8: Se lograron obtener los recursos.
+h0: Se lograron obtener los recursos.
+h9: Recursos usados, finaliza iteracion.
+h9: iniciando iteracion 1
+h9: Se intentaran obtener 2 recursos.
+h9: Se lograron obtener los recursos.
+h9: Recursos usados, finaliza iteracion.
+h9: iniciando iteracion 2
+h9: Se intentaran obtener 58 recursos.
+Se intentaron obtener 58 recursos pero solo hay 43
+Se intentaron obtener 68 recursos pero solo hay 43
+h8: Recursos usados, finaliza iteracion.
+h0: Recursos usados, finaliza iteracion.
+h0: iniciando iteracion 3
+h0: Se intentaran obtener 69 recursos.
+Se intentaron obtener 69 recursos pero solo hay 33
+h4: Se lograron obtener los recursos.
+h8: iniciando iteracion 1
+h8: Se intentaran obtener 93 recursos.
+Se intentaron obtener 93 recursos pero solo hay 33
+h4: Recursos usados, finaliza iteracion.
+h4: iniciando iteracion 3
+h4: Se intentaran obtener 56 recursos.
+Se intentaron obtener 56 recursos pero solo hay 31
+h0: Se lograron obtener los recursos.
+h7: Se lograron obtener los recursos.
+h0: Recursos usados, finaliza iteracion.
+h0: iniciando iteracion 4
+h0: Se intentaran obtener 29 recursos.
+h0: Se lograron obtener los recursos.
+h7: Recursos usados, finaliza iteracion.
+h7: iniciando iteracion 3
+h7: Se intentaran obtener 21 recursos.
+h7: Se lograron obtener los recursos.
+h0: Recursos usados, finaliza iteracion.
+h0: iniciando iteracion 5
+h0: Se intentaran obtener 84 recursos.
+Se intentaron obtener 84 recursos pero solo hay 11
+h2: Se lograron obtener los recursos.
+h7: Recursos usados, finaliza iteracion.
+h7: iniciando iteracion 4
+h7: Se intentaran obtener 98 recursos.
+Se intentaron obtener 98 recursos pero solo hay 32
+h2: Recursos usados, finaliza iteracion.
+h2: iniciando iteracion 2
+h2: Se intentaran obtener 24 recursos.
+h2: Se lograron obtener los recursos.
+h3: Se lograron obtener los recursos.
+h2: Recursos usados, finaliza iteracion.
+h2: iniciando iteracion 3
+h2: Se intentaran obtener 13 recursos.
+h2: Se lograron obtener los recursos.
+h5: Se lograron obtener los recursos.
+h3: Recursos usados, finaliza iteracion.
+h3: iniciando iteracion 2
+h3: Se intentaran obtener 80 recursos.
+Se intentaron obtener 80 recursos pero solo hay 24
+h5: Recursos usados, finaliza iteracion.
+h5: iniciando iteracion 1
+h5: Se intentaran obtener 56 recursos.
+h5: Se lograron obtener los recursos.
+h2: Recursos usados, finaliza iteracion.
+h2: iniciando iteracion 4
+h2: Se intentaran obtener 62 recursos.
+Se intentaron obtener 62 recursos pero solo hay 44
+h5: Recursos usados, finaliza iteracion.
+h5: iniciando iteracion 2
+h5: Se intentaran obtener 70 recursos.
+Se intentaron obtener 70 recursos pero solo hay 8
+h1: Se lograron obtener los recursos.
+h2: Se lograron obtener los recursos.
+h1: Recursos usados, finaliza iteracion.
+h1: iniciando iteracion 1
+h1: Se intentaran obtener 5 recursos.
+h1: Se lograron obtener los recursos.
+h1: Recursos usados, finaliza iteracion.
+h1: iniciando iteracion 2
+h1: Se intentaran obtener 84 recursos.
+h2: Recursos usados, finaliza iteracion.
+h2: iniciando iteracion 5
+h2: Se intentaran obtener 27 recursos.
+h2: Se lograron obtener los recursos.
+h5: Se lograron obtener los recursos.
+Se intentaron obtener 84 recursos pero solo hay 3
+h2: Recursos usados, finaliza iteracion.
+h2: iniciando iteracion 6
+h2: Se intentaran obtener 46 recursos.
+Se intentaron obtener 46 recursos pero solo hay 30
+h7: Se lograron obtener los recursos.
+h5: Recursos usados, finaliza iteracion.
+h5: iniciando iteracion 3
+h5: Se intentaran obtener 13 recursos.
+Se intentaron obtener 13 recursos pero solo hay 2
+h7: Recursos usados, finaliza iteracion.
+h7: iniciando iteracion 5
+h7: Se intentaran obtener 57 recursos.
+h7: Se lograron obtener los recursos.
+h5: Se lograron obtener los recursos.
+h7: Recursos usados, finaliza iteracion.
+h7: iniciando iteracion 6
+h7: Se intentaran obtener 82 recursos.
+Se intentaron obtener 82 recursos pero solo hay 5
+h6: Se lograron obtener los recursos.
+h5: Recursos usados, finaliza iteracion.
+h5: iniciando iteracion 4
+h5: Se intentaran obtener 14 recursos.
+h5: Se lograron obtener los recursos.
+h6: Recursos usados, finaliza iteracion.
+h6: iniciando iteracion 2
+h6: Se intentaran obtener 34 recursos.
+h6: Se lograron obtener los recursos.
+h2: Se lograron obtener los recursos.
+h2: Recursos usados, finaliza iteracion.
+h2: iniciando iteracion 7
+h2: Se intentaran obtener 50 recursos.
+h2: Se lograron obtener los recursos.
+h6: Recursos usados, finaliza iteracion.
+h6: iniciando iteracion 3
+h6: Se intentaran obtener 8 recursos.
+h6: Se lograron obtener los recursos.
+h6: Recursos usados, finaliza iteracion.
+h6: iniciando iteracion 4
+h6: Se intentaran obtener 78 recursos.
+Se intentaron obtener 78 recursos pero solo hay 36
+h5: Recursos usados, finaliza iteracion.
+h5: iniciando iteracion 5
+h5: Se intentaran obtener 88 recursos.
+Se intentaron obtener 88 recursos pero solo hay 50
+h4: Se lograron obtener los recursos.
+h2: Recursos usados, finaliza iteracion.
+h2: iniciando iteracion 8
+h2: Se intentaran obtener 3 recursos.
+h2: Se lograron obtener los recursos.
+h8: Se lograron obtener los recursos.
+h2: Recursos usados, finaliza iteracion.
+h2: iniciando iteracion 9
+h2: Se intentaran obtener 99 recursos.
+Se intentaron obtener 99 recursos pero solo hay 7
+h4: Recursos usados, finaliza iteracion.
+h4: iniciando iteracion 4
+h4: Se intentaran obtener 32 recursos.
+h4: Se lograron obtener los recursos.
+h9: Se lograron obtener los recursos.
+h8: Recursos usados, finaliza iteracion.
+h8: iniciando iteracion 2
+h8: Se intentaran obtener 68 recursos.
+Se intentaron obtener 68 recursos pero solo hay 10
+h4: Recursos usados, finaliza iteracion.
+h4: iniciando iteracion 5
+h4: Se intentaran obtener 39 recursos.
+h4: Se lograron obtener los recursos.
+h9: Recursos usados, finaliza iteracion.
+h9: iniciando iteracion 3
+h9: Se intentaran obtener 26 recursos.
+h8: Se lograron obtener los recursos.
+h4: Recursos usados, finaliza iteracion.
+h4: iniciando iteracion 6
+h4: Se intentaran obtener 94 recursos.
+Se intentaron obtener 94 recursos pero solo hay 32
+h9: Se lograron obtener los recursos.
+h8: Recursos usados, finaliza iteracion.
+h8: iniciando iteracion 3
+h8: Se intentaran obtener 95 recursos.
+Se intentaron obtener 95 recursos pero solo hay 74
+h9: Recursos usados, finaliza iteracion.
+h9: iniciando iteracion 4
+h9: Se intentaran obtener 70 recursos.
+Se intentaron obtener 70 recursos pero solo hay 1
+h2: Se lograron obtener los recursos.
+h6: Se lograron obtener los recursos.
+h2: Recursos usados, finaliza iteracion.
+h6: Recursos usados, finaliza iteracion.
+h6: iniciando iteracion 5
+h6: Se intentaran obtener 67 recursos.
+h6: Se lograron obtener los recursos.
+h6: Recursos usados, finaliza iteracion.
+h6: iniciando iteracion 6
+h6: Se intentaran obtener 97 recursos.
+Se intentaron obtener 97 recursos pero solo hay 5
+h8: Se lograron obtener los recursos.
+h8: Recursos usados, finaliza iteracion.
+h8: iniciando iteracion 4
+h8: Se intentaran obtener 17 recursos.
+Se intentaron obtener 17 recursos pero solo hay 16
+h1: Se lograron obtener los recursos.
+h1: Recursos usados, finaliza iteracion.
+h1: iniciando iteracion 3
+h1: Se intentaran obtener 52 recursos.
+h1: Se lograron obtener los recursos.
+h8: Se lograron obtener los recursos.
+h8: Recursos usados, finaliza iteracion.
+h8: iniciando iteracion 5
+h8: Se intentaran obtener 80 recursos.
+Se intentaron obtener 80 recursos pero solo hay 48
+h1: Recursos usados, finaliza iteracion.
+h1: iniciando iteracion 4
+h1: Se intentaran obtener 86 recursos.
+Se intentaron obtener 86 recursos pero solo hay 18
+h7: Se lograron obtener los recursos.
+h3: Se lograron obtener los recursos.
+h7: Recursos usados, finaliza iteracion.
+h7: iniciando iteracion 7
+h7: Se intentaran obtener 89 recursos.
+Se intentaron obtener 89 recursos pero solo hay 20
+h3: Recursos usados, finaliza iteracion.
+h3: iniciando iteracion 3
+h3: Se intentaran obtener 44 recursos.
+Se intentaron obtener 44 recursos pero solo hay 16
+h0: Se lograron obtener los recursos.
+h0: Recursos usados, finaliza iteracion.
+h0: iniciando iteracion 6
+h0: Se intentaran obtener 40 recursos.
+h0: Se lograron obtener los recursos.
+h3: Se lograron obtener los recursos.
+h0: Recursos usados, finaliza iteracion.
+h0: iniciando iteracion 7
+h0: Se intentaran obtener 17 recursos.
+h3: Recursos usados, finaliza iteracion.
+h3: iniciando iteracion 4
+h3: Se intentaran obtener 97 recursos.
+Se intentaron obtener 97 recursos pero solo hay 11
+Se intentaron obtener 17 recursos pero solo hay 11
+h7: Se lograron obtener los recursos.
+h7: Recursos usados, finaliza iteracion.
+h7: iniciando iteracion 8
+h7: Se intentaran obtener 81 recursos.
+h7: Se lograron obtener los recursos.
+h7: Recursos usados, finaliza iteracion.
+h7: iniciando iteracion 9
+h7: Se intentaran obtener 9 recursos.
+h7: Se lograron obtener los recursos.
+h5: Se lograron obtener los recursos.
+h7: Recursos usados, finaliza iteracion.
+h5: Recursos usados, finaliza iteracion.
+h5: iniciando iteracion 6
+h5: Se intentaran obtener 56 recursos.
+Se intentaron obtener 56 recursos pero solo hay 3
+h3: Se lograron obtener los recursos.
+h3: Recursos usados, finaliza iteracion.
+h3: iniciando iteracion 5
+h3: Se intentaran obtener 53 recursos.
+h3: Se lograron obtener los recursos.
+h0: Se lograron obtener los recursos.
+h0: Recursos usados, finaliza iteracion.
+h0: iniciando iteracion 8
+h0: Se intentaran obtener 6 recursos.
+h0: Se lograron obtener los recursos.
+h1: Se lograron obtener los recursos.
+h3: Recursos usados, finaliza iteracion.
+h3: iniciando iteracion 6
+h3: Se intentaran obtener 24 recursos.
+Se intentaron obtener 24 recursos pero solo hay 8
+h1: Recursos usados, finaliza iteracion.
+h1: iniciando iteracion 5
+h1: Se intentaran obtener 28 recursos.
+h1: Se lograron obtener los recursos.
+h0: Recursos usados, finaliza iteracion.
+h0: iniciando iteracion 9
+h0: Se intentaran obtener 32 recursos.
+h0: Se lograron obtener los recursos.
+h1: Recursos usados, finaliza iteracion.
+h1: iniciando iteracion 6
+h1: Se intentaran obtener 3 recursos.
+h1: Se lograron obtener los recursos.
+h5: Se lograron obtener los recursos.
+h1: Recursos usados, finaliza iteracion.
+h1: iniciando iteracion 7
+h1: Se intentaran obtener 68 recursos.
+Se intentaron obtener 68 recursos pero solo hay 12
+h0: Recursos usados, finaliza iteracion.
+h5: Recursos usados, finaliza iteracion.
+h5: iniciando iteracion 7
+h5: Se intentaran obtener 8 recursos.
+h5: Se lograron obtener los recursos.
+h3: Se lograron obtener los recursos.
+h1: Se lograron obtener los recursos.
+h5: Recursos usados, finaliza iteracion.
+h5: iniciando iteracion 8
+h5: Se intentaran obtener 96 recursos.
+h1: Recursos usados, finaliza iteracion.
+h1: iniciando iteracion 8
+h3: Recursos usados, finaliza iteracion.
+h3: iniciando iteracion 7
+h6: Se lograron obtener los recursos.
+h1: Se intentaran obtener 23 recursos.
+h3: Se intentaran obtener 18 recursos.
+Se intentaron obtener 96 recursos pero solo hay 3
+Se intentaron obtener 23 recursos pero solo hay 3
+Se intentaron obtener 18 recursos pero solo hay 3
+h6: Recursos usados, finaliza iteracion.
+h6: iniciando iteracion 7
+h6: Se intentaran obtener 46 recursos.
+h6: Se lograron obtener los recursos.
+h6: Recursos usados, finaliza iteracion.
+h6: iniciando iteracion 8
+h6: Se intentaran obtener 21 recursos.
+h6: Se lograron obtener los recursos.
+h1: Se lograron obtener los recursos.
+h1: Recursos usados, finaliza iteracion.
+h1: iniciando iteracion 9
+h1: Se intentaran obtener 88 recursos.
+Se intentaron obtener 88 recursos pero solo hay 61
+h3: Se lograron obtener los recursos.
+h6: Recursos usados, finaliza iteracion.
+h6: iniciando iteracion 9
+h6: Se intentaran obtener 28 recursos.
+Se intentaron obtener 28 recursos pero solo hay 12
+h1: Se lograron obtener los recursos.
+h3: Recursos usados, finaliza iteracion.
+h3: iniciando iteracion 8
+h3: Se intentaran obtener 50 recursos.
+Se intentaron obtener 50 recursos pero solo hay 12
+h1: Recursos usados, finaliza iteracion.
+h4: Se lograron obtener los recursos.
+h4: Recursos usados, finaliza iteracion.
+h5: Se lograron obtener los recursos.
+h4: iniciando iteracion 7
+h4: Se intentaran obtener 34 recursos.
+Se intentaron obtener 34 recursos pero solo hay 4
+h5: Recursos usados, finaliza iteracion.
+h5: iniciando iteracion 9
+h5: Se intentaran obtener 64 recursos.
+h5: Se lograron obtener los recursos.
+h4: Se lograron obtener los recursos.
+h5: Recursos usados, finaliza iteracion.
+h6: Se lograron obtener los recursos.
+h4: Recursos usados, finaliza iteracion.
+h4: iniciando iteracion 8
+h4: Se intentaran obtener 56 recursos.
+Se intentaron obtener 56 recursos pero solo hay 22
+h3: Se lograron obtener los recursos.
+h6: Recursos usados, finaliza iteracion.
+h3: Recursos usados, finaliza iteracion.
+h3: iniciando iteracion 9
+h3: Se intentaran obtener 91 recursos.
+Se intentaron obtener 91 recursos pero solo hay 20
+h8: Se lograron obtener los recursos.
+h8: Recursos usados, finaliza iteracion.
+h8: iniciando iteracion 6
+h8: Se intentaran obtener 65 recursos.
+Se intentaron obtener 65 recursos pero solo hay 44
+h4: Se lograron obtener los recursos.
+h4: Recursos usados, finaliza iteracion.
+h4: iniciando iteracion 9
+h4: Se intentaran obtener 36 recursos.
+Se intentaron obtener 36 recursos pero solo hay 35
+h8: Se lograron obtener los recursos.
+h8: Recursos usados, finaliza iteracion.
+h8: iniciando iteracion 7
+h8: Se intentaran obtener 51 recursos.
+h8: Se lograron obtener los recursos.
+h4: Se lograron obtener los recursos.
+h8: Recursos usados, finaliza iteracion.
+h8: iniciando iteracion 8
+h8: Se intentaran obtener 75 recursos.
+Se intentaron obtener 75 recursos pero solo hay 64
+h4: Recursos usados, finaliza iteracion.
+h3: Se lograron obtener los recursos.
+h3: Recursos usados, finaliza iteracion.
+h9: Se lograron obtener los recursos.
+h9: Recursos usados, finaliza iteracion.
+h9: iniciando iteracion 5
+h9: Se intentaran obtener 21 recursos.
+h9: Se lograron obtener los recursos.
+h8: Se lograron obtener los recursos.
+h8: Recursos usados, finaliza iteracion.
+h8: iniciando iteracion 9
+h8: Se intentaran obtener 29 recursos.
+h8: Se lograron obtener los recursos.
+h9: Recursos usados, finaliza iteracion.
+h9: iniciando iteracion 6
+h9: Se intentaran obtener 35 recursos.
+h9: Se lograron obtener los recursos.
+h8: Recursos usados, finaliza iteracion.
+h9: Recursos usados, finaliza iteracion.
+h9: iniciando iteracion 7
+h9: Se intentaran obtener 18 recursos.
+h9: Se lograron obtener los recursos.
+h9: Recursos usados, finaliza iteracion.
+h9: iniciando iteracion 8
+h9: Se intentaran obtener 43 recursos.
+h9: Se lograron obtener los recursos.
+h9: Recursos usados, finaliza iteracion.
+h9: iniciando iteracion 9
+h9: Se intentaran obtener 28 recursos.
+h9: Se lograron obtener los recursos.
+h9: Recursos usados, finaliza iteracion.

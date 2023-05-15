@@ -1,3 +1,9 @@
+/*
+* Autor: Daniel Gonzalez
+* Carne: 20293
+* Descripcion: Uso de semaforos para sincronziacion.
+*/
+
 #include <pthread.h>
 #include <unistd.h>
 #include <cstdlib>
@@ -43,6 +49,11 @@ void* consume(void* arg) {
     pthread_exit(NULL);
 }
 
+/*
+* En este caso no uso directamente una variable que representaba la cantidad
+* de recursos disponibles. En cambio use semaforos contadores, cuyo contador es
+* la cantidad de recursos disponibles.
+*/
 
 int main() {
     sem_init(&semaphore, 0, CANT_ID);
@@ -51,7 +62,7 @@ int main() {
     output_file << "";
     output_file.close();
     pthread_t threads[NUM_THREADS];
-
+    // Creacion de threads.
     for (int i = 0; i < NUM_THREADS; i++) {
         string log = "Inicializando thread " + to_string(i);
         write_to_file(log);

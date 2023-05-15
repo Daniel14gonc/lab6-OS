@@ -1,3 +1,9 @@
+/*
+* Autor: Daniel Gonzalez
+* Carne: 20293
+* Descripcion: Uso de monitores con mutex y variables de condicion.
+*/
+
 #include <pthread.h>
 #include <iostream>
 #include <fstream>
@@ -19,6 +25,8 @@ sem_t write_to_file_sem;
 
 pthread_cond_t condition;
 pthread_mutex_t mutex;
+
+// Funcion que permite escribir logs al archivo.
 
 void write_to_file(string log) {
     sem_wait(&write_to_file_sem);
@@ -58,6 +66,7 @@ void* consume(void* arg) {
     int id = *((int *) arg);
     free(arg);
     string log;
+    // Ejecucion de obtencion de recursos.
     for (int i = 0; i < NUM_ITERS; i++) {
         log = "h" + to_string(id) + ": iniciando iteracion " + to_string(i);
         write_to_file(log);
@@ -86,6 +95,7 @@ int main() {
     output_file.close();
     pthread_t threads[NUM_THREADS];
 
+    // Creacion de threads
     for (int i = 0; i < NUM_THREADS; i++) {
         string log = "Inicializando thread " + to_string(i);
         write_to_file(log);
